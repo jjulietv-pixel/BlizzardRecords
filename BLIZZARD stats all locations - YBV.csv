@@ -1,0 +1,7 @@
+Year,Month(s),Day(s),Duration (hrs),Type,Min Vis (m),Min Wc (°C),Max Gust (km/h),Dom WDir,Event Snow (cm)
+1986,Nov,8,4,Blizzard,200,-25,N/A,NNE,12.6
+1988,Jan,3,4,Blizzard,400,-35,74,NW,9.4
+1990,Feb,12,9,Blizzard,0,-39,N/A,WNW,7.8
+1995,Dec,5,9+,Blizzard,0,-35,87,WNW,N/A
+2017,Mar,7,4+,Blizzard,200,-23,78,W,22.9
+2017,Mar,8,7+,Blizzard,200,-33,87,NW,22.9

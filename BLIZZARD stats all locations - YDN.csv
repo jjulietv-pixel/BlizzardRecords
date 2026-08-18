@@ -1,0 +1,18 @@
+Year,Month(s),Day(s),Duration (hrs),Type,Min Vis (m),Min Wc (°C),Max Gust (km/h),Dom WDir,Event Snow (cm)
+1953,Apr,15,4,Blizzard,200,-20,N/A,NNW,3.6
+1958,Apr,28,4,Blizzard,400,-25,N/A,NNW,9.4
+1959,Oct,10,8,Blizzard,200,-12,N/A,NNW,26.9
+1964,Feb,22,4,Blizzard,200,-33,N/A,NNW,3.8
+1965,Jan,12,6,Ground,200,-49,80,W,0.0
+1967,Apr,20,8,Blizzard,0,-15,68,N,24.9
+1975,Jan,11,13,Blizzard,0,-47,72,WSW,16.8
+1976,Mar,19-20,5,Blizzard,200,-17,82,N,23.8
+1977,Nov,20,5,Blizzard,200,-24,74,N,1.7
+1978,Dec,29,4,Blizzard,200,-40,74,N,10.1
+1979,Mar,25,4,Blizzard,400,-22,54,NE,15.5
+1980,Jan,11,5,Blizzard,0,-39,76,NW,12.5
+1984,Apr,27,13,Blizzard,200,-16,83,NNE,30.9
+1986,Nov,8,12,Blizzard,0,-27,94,N,21.4
+1992,Apr,19,4,Blizzard,200,-16,80,N,19.9
+1995,Dec,4-5,5,Blizzard,0,-33,104,W,2.5
+2017,Mar,7,4,Blizzard,200,-29,70,W,21.0
